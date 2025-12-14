@@ -31,7 +31,8 @@ Students often upload code to GitHub without knowing if it looks "professional" 
 
 ## 📸 Screenshots
 
-*(Add a screenshot of your dashboard here)*
+*<img width="2846" height="1444" alt="image" src="https://github.com/user-attachments/assets/63e3edc9-9bf0-491d-a203-75e5f77edd99" />
+*
 
 ## ⚡ Features
 * **✅ GitGrade Score (0-100):** Real-time calculation based on file existence (`README.md`, `.gitignore`, `requirements.txt`) and testing frameworks.
